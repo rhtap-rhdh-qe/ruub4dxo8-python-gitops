@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ruub4dxo8-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ruub4dxo8-python-gitops
